@@ -4,5 +4,5 @@
 int main()
 {
     scanf("%*s");
-    printf("a");
+    printf("a\n");
 }
