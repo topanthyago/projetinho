@@ -3,5 +3,6 @@
 
 int main()
 {
+    scanf("%*s");
     printf("a");
 }
